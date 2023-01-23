@@ -1,0 +1,23 @@
+mode: set
+primenumber/main.go:16.13,27.2 5 0
+primenumber/main.go:29.14,32.2 2 1
+primenumber/main.go:34.15,36.2 1 1
+primenumber/main.go:38.36,39.22 1 1
+primenumber/main.go:43.2,43.11 1 1
+primenumber/main.go:47.2,47.28 1 1
+primenumber/main.go:53.2,53.44 1 1
+primenumber/main.go:39.22,41.3 1 1
+primenumber/main.go:43.11,45.3 1 1
+primenumber/main.go:47.28,48.15 1 1
+primenumber/main.go:48.15,50.4 1 1
+primenumber/main.go:56.50,60.6 2 1
+primenumber/main.go:60.6,63.11 2 1
+primenumber/main.go:68.3,69.11 2 1
+primenumber/main.go:63.11,66.4 2 1
+primenumber/main.go:73.58,77.44 2 1
+primenumber/main.go:81.2,81.26 1 1
+primenumber/main.go:85.2,86.16 2 1
+primenumber/main.go:90.2,92.19 2 1
+primenumber/main.go:77.44,79.3 1 1
+primenumber/main.go:81.26,83.3 1 1
+primenumber/main.go:86.16,88.3 1 1
